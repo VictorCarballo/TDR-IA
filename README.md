@@ -15,6 +15,7 @@ Intel·ligència artificial, revolució tecnològica, mobilitat i transport, pre
 
 
 
+
 RESUMEN
 
 Ante una problemática real, el incremento sustancial del tráfico con accidentes y congestiones constantes en la AP-7, que ocasiona problemas, no solo económicos, sino también de tipo social, se ha pensado que sería de gran interés aplicar una de las nuevas tecnologías emergentes, la inteligencia artificial. 
@@ -25,6 +26,7 @@ En conclusión, el trabajo muestra que la inteligencia artificial tendría un im
 
 Palabras clave
 Inteligencia artificial, revolución tecnológica, movilidad y transporte, predicción y resolución de incidencias.
+
 
 
 
